@@ -1,4 +1,4 @@
-# BroGuide
+# BroApi
 
 Bro Guide is an Ionic React app that helps users track their workouts, food, and calories. It allows users to set fitness goals, create custom workout plans, log their exercises and meals, and track their progress over time. The app also includes features such as a calorie tracker, a nutrient breakdown of meals, and the ability to connect with friends for added motivation. With Bro Guide, users can easily stay on top of their fitness journey and reach their goals. Backend is handled by ExpressJS and MongoDB Atlas
 
